@@ -683,7 +683,713 @@
     "id":60,
     "category":"shirt"
   }
-]
+],
+
+  "women": [
+    {
+      "title": "Floral Print Straight Kurta Set",
+      "price": 1286,
+      "image": "https://www.ajio.com/prakhya-floral-print-straight-kurta-set/p/465509166_black",
+      "category": "Kurtis",
+      "brand": "PRAKHYA",
+      "discount": 44,
+      "offer_price": 720,
+      "id": 1
+    },
+    {
+      "title": "Embellished Polyester Saree",
+      "price": 364,
+      "image": "https://www.ajio.com/siril-embellished-polyester-saree/p/465791742_teal",
+      "category": "Sarees",
+      "brand": "Siril",
+      "discount": 35,
+      "offer_price": 236,
+      "id": 2
+    },
+    {
+      "title": "Block Heeled Sandals with Clear Straps",
+      "price": 1236,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210514/XS54/609d718ff997ddb3129d659e/-473Wx593H-460812729-nude-MODEL4.jpg",
+      "category": "Heels",
+      "brand": "Curiozz",
+      "discount": 49,
+      "offer_price": 630,
+      "id": 3
+    },
+    {
+      "title": "Mysore Silk Ethnic Motifs Saree",
+      "price": 1991,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221011/Z22T/63450480aeb269659c39c503/-473Wx593H-465033361-grey-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "Gorgone",
+      "discount": 41,
+      "offer_price": 1174,
+      "id": 4
+    },
+    
+    {
+      "title": "Kanjeevaram Silk Traditional Saree",
+      "price": 2000,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230321/cl7K/6418fed3aeb26924e3d89245/-473Wx593H-465706579-peach-MODEL5.jpg",
+      "category": "Sarees",
+      "brand": "BESUCHER",
+      "discount": 41,
+      "offer_price": 1180,
+      "id": 5
+    },
+    {
+      "title": "ZIKARAA",
+      "price": 2222,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230306/2Pwn/64061eafaeb26924e3a9b4f3/-473Wx593H-465870088-white-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "Banarasi Silk Saree with Leaf Woven Motifs",
+      "discount": 48,
+      "offer_price": 1155,
+      "id": 6
+    },
+    {
+      "title": "Banarasi Silk Saree with Zari Border",
+      "price": 1999,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230106/u9OC/63b741d0f997dd708ed6ac1c/-473Wx593H-465514585-green-MODEL4.jpg",
+      "category": "Sarees",
+      "brand": "LIMDO",
+      "discount": 22,
+      "offer_price": 1559,
+      "id": 7
+    },
+    {
+      "title": "Floral Print Saree with Lace Border",
+      "price": 1999,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220401/sans/6246f24cf997dd03e242f135/-473Wx593H-463875459-red-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "ISHA TRADE",
+      "discount": 46,
+      "offer_price": 1079,
+      "id": 8
+    },
+    {
+      "title": "Floral Print Satin Saree",
+      "price": 2500,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220923/SBG3/632d9842aeb269dbb3a3b52f/-473Wx593H-465047715-multi-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "VEECHI'S",
+      "discount": 39,
+      "offer_price": 1525,
+      "id": 9
+    },
+    {
+      "title": "Ombre-Dyed Saree with Tassels",
+      "price": 3000,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220815/v4iD/62f9fd64aeb26921aff03c74/-473Wx593H-464490905-purple-MODEL3.jpg",
+      "category": "Sarees",
+      "brand": "PRATHAM BLUE",
+      "discount": 21,
+      "offer_price": 2370,
+      "id": 10
+    },
+    {
+      "title": "Georgette Saree With Sequence Lace Border",
+      "price": 2400,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220405/mq4q/624b622baeb26921af0b6b6a/-473Wx593H-464123799-grey-MODEL3.jpg",
+      "category": "Sarees",
+      "brand": "Dwini",
+      "discount": 46,
+      "offer_price": 1296,
+      "id": 11
+    },
+    {
+      "title": "6822ER Gold-Plated Pearl-Studded Jhumka Earrings",
+      "price": 1160,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210924/3GT9/614cf92eaeb269a268a43bbf/-473Wx593H-6005608000-multi-MODEL.jpg",
+      "category": "Earrings",
+      "brand": "Shining Diva",
+      "discount": 30,
+      "offer_price": 812,
+      "id": 12
+    },
+    {
+      "title": "Geometric Print Saree with Blouse Piece",
+      "price": 2000,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220725/pdmb/62ded5e9aeb26921af9a5a5b/-473Wx593H-464711587-navy-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "SATRANI",
+      "discount": 32,
+      "offer_price": 1360,
+      "id": 13
+    },
+    {
+      "title": "Floral Woven Silk Saree",
+      "price": 2299,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230111/SG0G/63bdd2f8f997dd708efced28/-473Wx593H-465551384-magenta-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "ZIKARAA",
+      "discount": 45,
+      "offer_price": 1264,
+      "id": 14
+    },
+    {
+      "title": "Bandhani Print Straight Kurta with Pants & Dupatta",
+      "price": 1485,
+      "image": "https://www.ajio.com/stylum-bandhani-print-straight-kurta-with-pants--dupatta/p/464870519_green",
+      "category": "Kurtis",
+      "brand": "STYLUM",
+      "discount": 34,
+      "offer_price": 980,
+      "id": 15
+    },
+    {
+      "title": "Striped Saree with Blouse Piece",
+      "price": 2198,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221021/4kPU/6351b18df997ddfdbd377ff6/-473Wx593H-465183156-navy-MODEL4.jpg",
+      "category": "Sarees",
+      "brand": "TIKHI IMLI",
+      "discount": 24,
+      "offer_price": 1670,
+      "id": 16
+    },
+    {
+      "title": "Stillettos with Ankle Loop",
+      "price": 1582,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230214/8zit/63eb9b0caeb26924e36e5e02/-473Wx593H-460439699-black-MODEL3.jpg",
+      "category": "Heels",
+      "brand": "MFT Couture",
+      "discount": 30,
+      "offer_price": 1107,
+      "id": 17
+    },
+    {
+      "title": "Floral Pattern Saree with Zari Border",
+      "price": 3000,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221228/oP8q/63ab5e16aeb269659c1230db/-473Wx593H-465509870-yellow-MODEL4.jpg",
+      "category": "Sarees",
+      "brand": "Anjaneya Sarees",
+      "discount": 29,
+      "offer_price": 2130,
+      "id": 18
+    },
+    {
+      "title": "Floral Print Georgette Saree",
+      "price": 1600,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220831/jZIs/630e780cf997dd1f8dca4825/-473Wx593H-464914305-blue-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "Hritika",
+      "discount": 49,
+      "offer_price": 816,
+      "id": 19
+    },
+    {
+      "title": "Printed Georgette Saree",
+      "price": 1500,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221212/e2UQ/639743dff997ddfdbdcd0019/-473Wx593H-465421531-white-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "PRIYASHI",
+      "discount": 43,
+      "offer_price": 855,
+      "id": 20
+    },
+    {
+      "title": "EBH50_AJR2 Meenakari Jhumkas with Pearl Drops",
+      "price": 2500,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221114/Fuh9/63728084f997ddfdbd7441b5/-473Wx593H-465278078-multi-MODEL4.jpg",
+      "category": "Earrings",
+      "brand": "Fabula",
+      "discount": 29,
+      "offer_price": 1775,
+      "id": 21
+    },
+    
+    {
+      "title": "Stone-Studded Huggies",
+      "price": 1599,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220711/LEs7/62cc4b73f997dd03e2ca73ab/-473Wx593H-6005533020-multi-MODEL.jpg",
+      "category": "Earrings",
+      "brand": "Youbella",
+      "discount": 47,
+      "offer_price": 847,
+      "id": 22
+    },
+    {
+      "title": "Stone-Studded Huggies",
+      "price": 1222,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220711/px5y/62cc498daeb26921af70c8d5/-473Wx593H-6005533010-multi-MODEL3.jpg",
+      "category": "Earrings",
+      "brand": "Youbella",
+      "discount": 39,
+      "offer_price": 745,
+      "id": 23
+    },
+    {
+      "title": "9751ER Gold-Plated Crystal-Studded Drop Earrings",
+      "price": 1600,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220721/jV8h/62d97f23f997dd03e2e7c003/-473Wx593H-6005608970-multi-MODEL4.jpg",
+      "category": "Earrings",
+      "brand": "Shining Diva",
+      "discount": 36,
+      "offer_price": 1024,
+      "id": 24
+    },
+    {
+      "title": "Stone-Studded Drop Earrings",
+      "price": 1600,
+      "image": "https://www.ajio.com/youbella-stone-studded-drop-earrings/p/6005532700_multi",
+      "category": "Earrings",
+      "brand": "Youbella",
+      "discount": 26,
+      "offer_price": 1184,
+      "id": 25
+    },
+    {
+      "title": "10716ER Silver-Plated Crystal-Studded Dangler Earrings",
+      "price": 1000,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220721/7auD/62d97096aeb26921af8ca6dc/-473Wx593H-6005609660-multi-MODEL5.jpg",
+      "category": "Earrings",
+      "brand": "Shining Diva",
+      "discount": 25,
+      "offer_price": 750,
+      "id": 26
+    },
+    {
+      "title": "Kanjeevaram Silk Saree with Embrossed Border",
+      "price": 1699,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221216/TCZs/639c8b72f997ddfdbdd9524c/-473Wx593H-465444798-navy-MODEL4.jpg",
+      "category": "Sarees",
+      "brand": "BESUCHER",
+      "discount": 35,
+      "offer_price": 1104,
+      "id": 27
+    },
+    {
+      "title": "Stone-Studded Tassels Geometric Drop Earrings",
+      "price": 1700,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220719/nQoT/62d5b664f997dd03e2dcb7e0/-473Wx593H-6005668370-multi-MODEL3.jpg",
+      "category": "Earrings",
+      "brand": "Youbella",
+      "discount": 42,
+      "offer_price": 986,
+      "id": 28
+    },
+    {
+      "title": "Saree with Contrast Border",
+      "price": 731,
+      "image": "https://www.ajio.com/besucher-saree-with-contrast-border/p/465444798_blue",
+      "category": "Sarees",
+      "brand": "BESUCHER",
+      "discount": 34,
+      "offer_price": 482,
+      "id": 29
+    },
+    {
+      "title": "BV3050ER American Diamond-Studded Jhumkas with Hair Chain",
+      "price": 985,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220603/1bzq/629a300bf997dd03e2624171/-473Wx593H-469041404-multi-MODEL4.jpg",
+      "category": "Earrings",
+      "brand": "Bevogue",
+      "discount": 38,
+      "offer_price": 610,
+      "id": 30
+    },
+    {
+      "title": "Embellished Platform Heels",
+      "price": 2199,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211227/GZAH/61c9d7d2aeb26901101d0e1a/-473Wx593H-469052514-rosegold-MODEL.jpg",
+      "category": "Heels",
+      "brand": "Five By Inc.5",
+      "discount": 30,
+      "offer_price": 1539,
+      "id": 31
+    },
+    {
+      "title": "Stone-Studded Dangler Earrings",
+      "price": 1396,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220711/PxLJ/62cc46bef997dd03e2ca5718/-473Wx593H-6005533050-multi-MODEL.jpg",
+      "category": "Earrings",
+      "brand": "Youbella",
+      "discount": 23,
+      "offer_price": 1074,
+      "id": 32
+    },
+    {
+      "title": "Strappy Wedges with Buckle Closure",
+      "price": 1899,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221202/z7K4/638a3499aeb269659ccba1dc/-473Wx593H-460391796-cream-OUTFIT.jpg",
+      "category": "Heels",
+      "brand": "Marc Loire",
+      "discount": 41,
+      "offer_price": 1120,
+      "id": 33
+    },
+    {
+      "title": "Checked Pointed-Toe Stilettos",
+      "price": 3456,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220728/rQgS/62e18b1ff997dd03e2fed5a1/-473Wx593H-469264881-khaki-MODEL2.jpg",
+      "category": "Heels",
+      "brand": "Everqupid",
+      "discount": 35,
+      "offer_price": 2246,
+      "id": 34
+    },
+    {
+      "title": "Thong-Strap Chunky Heeled Sandals",
+      "price": 1400,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230322/hI86/641acdc2711cf97ba7df5364/-473Wx593H-465791698-white-MODEL.jpg",
+      "category": "Heels",
+      "brand": "Shoetopia",
+      "discount": 43,
+      "offer_price": 798,
+      "id": 35
+    },
+    {
+      "title": "Embellished Slip-On Wedges",
+      "price": 1752,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221027/jC0f/635acb60f997ddfdbd438598/-473Wx593H-465199301-green-MODEL.jpg",
+      "category": "Heels",
+      "brand": "BIG BIRD FOOTWEAR",
+      "discount": 23,
+      "offer_price": 1349,
+      "id": 36
+    },
+    {
+      "title": "Slingback Chunky Heeled Sandals",
+      "price": 1524,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20201120/pCeW/5fb7ddb0f997dd8c83a3890d/-473Wx593H-460781896-white-MODEL.jpg",
+      "category": "Heels",
+      "brand": "Sneak-a-Peek",
+      "discount": 31,
+      "offer_price": 1051,
+      "id": 37
+    },
+    {
+      "title": "A3084-A1 Full-Rim Oversized Sunglasses",
+      "price": 1523,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220413/mL9U/625662edf997dd03e25a9eab/-473Wx593H-463307990-brown-MODEL.jpg",
+      "category": "Sunglasses",
+      "brand": "Carlton London",
+      "discount": 46,
+      "offer_price": 822,
+      "id": 38
+    },
+    {
+      "title": "Floral Flared Kurta",
+      "price": 2192,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220705/UHpN/62c35cc3aeb26921af60e9be/-473Wx593H-464586937-pink-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "GLAM ROOTS",
+      "discount": 30,
+      "offer_price": 1534,
+      "id": 39
+    },
+    {
+      "title": "Clear-Strap Chunky-Heels with Bold Chain Accent",
+      "price": 2341,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220906/OB4X/631681c4f997dd1f8de35a6b/-473Wx593H-469125762-nude-MODEL.jpg",
+      "category": "Heels",
+      "brand": "Steppings",
+      "discount": 27,
+      "offer_price": 1708,
+      "id": 40
+    },
+    {
+      "title": "Floral Pattern Saree with Contrast Border",
+      "price": 4000,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230110/htLw/63bd2db1aeb269c651d3a458/-473Wx593H-465584605-pink-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "AWESOME",
+      "discount": 42,
+      "offer_price": 2320,
+      "id": 41
+    },
+    {
+      "title": "Peep-Toe Slingback Chunky Heeled Sandals",
+      "price": 1909,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221031/rCE3/635fc64ff997ddfdbd4bbae4/-473Wx593H-464226506-white-MODEL.jpg",
+      "category": "Heels",
+      "brand": "Shoetopia",
+      "discount": 43,
+      "offer_price": 1088,
+      "id": 42
+    },
+    {
+      "title": "CHI0096-C2 Full-Rim Oversize Sunglasses",
+      "price": 1956,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220211/cQgV/62056055f997dd03e2ca118e/-473Wx593H-469125334-brown-MODEL2.jpg",
+      "category": "Sunglasses",
+      "brand": "ROYAL SON",
+      "discount": 29,
+      "offer_price": 1388,
+      "id": 43
+    },
+    {
+      "title": "Embellished T-Strap Wedges",
+      "price": 1753,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221031/TQew/63600cd8aeb269659c67bc56/-473Wx593H-465219318-black-MODEL.jpg",
+      "category": "Heels",
+      "brand": "BIG BIRD FOOTWEAR",
+      "discount": 27,
+      "offer_price": 1279,
+      "id": 44
+    },
+    {
+      "title": "Floral Print Flared Kurta",
+      "price": 2299,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230104/fU9M/63b491bfaeb269659c221c45/-78Wx98H-465549481-teal-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "GULMOHAR JAIPUR",
+      "discount": 25,
+      "offer_price": 1724,
+      "id": 45
+    },
+    {
+      "title": "Embellished Ankle-Strap Chunky Heeled Sandals",
+      "price": 2500,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230302/Y4Vp/6400d01daeb26924e3a24760/-473Wx593H-469148120-gold-MODEL.jpg",
+      "category": "Heels",
+      "brand": "Marc Loire",
+      "discount": 27,
+      "offer_price": 1825,
+      "id": 46
+    },
+    {
+      "title": "Checked Pointed-Toe Stilettos",
+      "price": 1094,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220728/Jr1c/62e19266aeb26921afa34037/-473Wx593H-469264881-black-MODEL.jpg",
+      "category": "Heels",
+      "brand": " Everqupid",
+      "discount": 49,
+      "offer_price": 557,
+      "id": 47
+    },
+    {
+      "title": "Pointed-Toe Slingback Kitten Heels",
+      "price": 1290,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210907/0kuY/6137a44bf997ddce89bf4c96/-473Wx593H-458006093-ltbeige-MODEL.jpg",
+      "category": "Heels",
+      "brand": "FIONI",
+      "discount": 41,
+      "offer_price": 761,
+      "id": 48
+    },
+    {
+      "title": "TS-50896-C2 UV-Protected Shield Sunglasses",
+      "price": 2315,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220202/8www/61faa5d8aeb26921af8724b5/-473Wx593H-469116112-grey-MODEL.jpg",
+      "category": "Sunglasses",
+      "brand": "Ted Smith",
+      "discount": 29,
+      "offer_price": 1643,
+      "id": 49
+    },
+    {
+      "title": "Leaf Print Traditional Saree",
+      "price": 800,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230322/SBkS/641ad7dc907deb497aa26e89/-473Wx593H-465784286-cream-MODEL2.jpg",
+      "category": "Sarees",
+      "brand": "KORAM'S DESIGN",
+      "discount": 39,
+      "offer_price": 488,
+      "id": 50
+    },
+    {
+      "title": "TS-50881-C2 UV-Protected Aviators",
+      "price": 1000,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221206/gSaV/638f71eaf997ddfdbdbf3f38/-473Wx593H-469046343-grey-MODEL3.jpg",
+      "category": "Sunglasses",
+      "brand": "Ted Smith",
+      "discount": 32,
+      "offer_price": 680,
+      "id": 51
+    },
+    {
+      "title": "Open-Toe Heeled Sandals",
+      "price": 1430,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230322/QIaW/641ac9e8907deb497aa06fb8/-473Wx593H-465791659-multi-MODEL.jpg",
+      "category": "Heels",
+      "brand": "Shoetopia",
+      "discount": 21,
+      "offer_price": 1129,
+      "id": 52
+    },
+    {
+      "title": "TS-5118 UV-Protected Aviators",
+      "price": 2150,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221209/Neir/63936c7cf997ddfdbdcaf789/-473Wx593H-469192307-grey-MODEL.jpg",
+      "category": "Sunglasses",
+      "brand": "Ted Smith",
+      "discount": 35,
+      "offer_price": 1397,
+      "id": 53
+    },
+    {
+      "title": "Round Full-Rim Frame Sunglasses",
+      "price": 1885,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230208/ie7z/63e3b28aaeb26924e36085bf/-473Wx593H-464871124-blue-MODEL2.jpg",
+      "category": "Sunglasses",
+      "brand": " Vincent Chase",
+      "discount": 49,
+      "offer_price": 961,
+      "id": 54
+    },
+    {
+      "title": "R6039 Oval Shape Sunglasses",
+      "price": 2358,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230111/3uvi/63bedd1cf997dd708efff132/-78Wx98H-462048778-brown-MODEL.jpg",
+      "category": "Sunglasses",
+      "brand": "Carlton London",
+      "discount": 30,
+      "offer_price": 1650,
+      "id": 55
+    },
+    {
+      "title": "A30114-Grey Black A30114 Half-Rim Rectangular Sunglasses",
+      "price": 2496,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230111/WxtL/63bee158f997dd708e0008d0/-473Wx593H-462022340-black-MODEL.jpg",
+      "category": "Sunglasses",
+      "brand": "Carlton London",
+      "discount": 39,
+      "offer_price": 1522,
+      "id": 56
+    },
+    {
+      "title": "Novelty Straight Kurta",
+      "price": 1048,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210403/lju0/60685b6faeb269a9e330b554/-473Wx593H-461005409-blue-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "Pannkh",
+      "discount": 23,
+      "offer_price": 806,
+      "id": 57
+    },
+    {
+      "title": "Floral Flared Kurta",
+      "price": 1982,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220705/eLhp/62c358e6aeb26921af606f2d/-473Wx593H-464586933-wine-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "GLAM ROOTS",
+      "discount": 21,
+      "offer_price": 1565,
+      "id": 58
+    },
+    {
+      "title": "Floral Embroidery Flared Kurta",
+      "price": 1522,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220907/vKK1/6317c6c2aeb269dbb376a243/-473Wx593H-464951604-purple-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "PURVIJA KURTIES",
+      "discount": 24,
+      "offer_price": 1156,
+      "id": 59
+    },
+    {
+      "title": "Floral Print Flared Kurta",
+      "price": 1460,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220914/3IJT/6320f121f997dd1f8dfd190a/-473Wx593H-464988597-pink-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "NISHABD",
+      "discount": 39,
+      "offer_price": 890,
+      "id": 60
+    },
+    {
+      "title": "Chevron Print A-Line Kurta",
+      "price": 1069,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230124/bzGs/63cf7b0eaeb269c651f5be66/-473Wx593H-443008447-turq-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "AVAASA MIX N' MATCH",
+      "discount": 20,
+      "offer_price": 855,
+      "id": 61
+    },
+    {
+      "title": "Embroidered Flared Kurta",
+      "price": 1697,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220914/hjCE/6320eea2aeb269dbb38914e3/-473Wx593H-464988616-blue-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "NISHABD",
+      "discount": 43,
+      "offer_price": 967,
+      "id": 62
+    },
+    {
+      "title": "Foil Print A-Line Kurta",
+      "price": 1200,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221115/66Or/6373c7f9aeb269659c8f817d/-473Wx593H-441146013-navy-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "AVAASA MIX N' MATCH",
+      "discount": 33,
+      "offer_price": 804,
+      "id": 63
+    },
+    {
+      "title": "Printed Flared Kurta",
+      "price": 900,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220422/gUKD/6261a336aeb26921af39fcc0/-473Wx593H-420280886-maroon-MODEL3.jpg",
+      "category": "Kurtis",
+      "brand": "DHUNI",
+      "discount": 40,
+      "offer_price": 540,
+      "id": 64
+    },
+    {
+      "title": "Floral Print Flared Kurta",
+      "price": 1398,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221203/QIPG/638a6d7daeb269659cccdb80/-473Wx593H-465383966-blue-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "GULMOHAR JAIPUR",
+      "discount": 44,
+      "offer_price": 782,
+      "id": 65
+    },
+    {
+      "title": "Printed A-Line Kurta",
+      "price": 999,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221122/cmgi/637ca720aeb269659ca63f72/-473Wx593H-441149945-yellow-MODEL2.jpg",
+      "category": "Kurtis",
+      "brand": "AVAASA MIX N' MATCH",
+      "discount": 22,
+      "offer_price": 779,
+      "id": 66
+    },
+    {
+      "title": "Striped Straight Kurta",
+      "price": 1793,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220924/fwi9/632e4469aeb269dbb3a5ac8e/-473Wx593H-465045953-magenta-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": " Hritika",
+      "discount": 34,
+      "offer_price": 1183,
+      "id": 67
+    },
+    {
+      "title": "Peacock Print Silk Saree",
+      "price": 1999,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220920/mDei/6328f6e2f997dd1f8d0b09f7/-473Wx593H-465020478-green-MODEL.jpg",
+      "category": "Sarees",
+      "brand": "Gorgone",
+      "discount": 43,
+      "offer_price": 1139,
+      "id": 68
+    },
+    {
+      "title": "Floral Print Round-Neck Flared Kurta",
+      "price": 1499,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220906/Hhz8/63167efaaeb269dbb37026ab/-473Wx593H-464938954-blue-MODEL.jpg",
+      "category": "Kurtis",
+      "brand": "PURVIJA KURTIES",
+      "discount": 39,
+      "offer_price": 914,
+      "id": 69
+    },
+    {
+      "title": "Zari-Woven Tasseled Saree",
+      "price": 5000,
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221114/D6Zh/63725bd8f997ddfdbd72b157/-473Wx593H-465272069-pink-MODEL2.jpg",
+      "category": "Sarees",
+      "brand": "AA-HA!!",
+      "discount": 42,
+      "offer_price": 2900,
+      "id": 70
+    }
+  ]
+
 
 
 }
