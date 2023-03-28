@@ -5,70 +5,685 @@
 "name": "Gertrudis Tatterton",
 "age": 18,
 "email": "gtatterton0@ehow.com",
-"password": "12345"
+"password": "12345",
+"cart":[]
 },
 {
 "id": 2,
 "name": "Gail Newbatt",
 "age": 53,
 "email": "gnewbatt1@un.org",
-"password": "12345"
+"password": "12345",
+"cart":[]
 },
 {
 "id": 3,
 "name": "Walliw Wilstead",
 "age": 49,
 "email": "wwilstead2@tripadvisor.com",
-"password": "12345"
+"password": "12345",
+"cart":[]
 },
 {
 "id": 4,
 "name": "Abran Proback",
 "age": 29,
 "email": "aproback3@theglobeandmail.com",
-"password": "12345"
+"password": "12345",
+"cart":[]
 },
 {
 "id": 5,
 "name": "Roda Chappelow",
 "age": 31,
 "email": "rchappelow4@oaic.gov.au",
-"password": "12345"
+"password": "12345",
+"cart":[]
 },
 {
 "id": 6,
 "name": "Karney Wylie",
 "age": 22,
 "email": "kwylie5@miitbeian.gov.cn",
-"password": "12345"
+"password": "12345",
+"cart":[]
 },
 {
 "id": 7,
 "name": "Cammi Pimbley",
 "age": 63,
 "email": "cpimbley6@nyu.edu",
-"password": "12345"
+"password": "12345",
+"cart":[]
 },
 {
 "id": 8,
 "name": "Gavra Manning",
 "age": 43,
 "email": "gmanning7@lycos.com",
-"password": "12345"
+"password": "12345",
+"cart":[]
 },
 {
 "id": 9,
 "name": "Zachary Seward",
 "age": 45,
 "email": "zseward8@oracle.com",
-"password": "12345"
+"password": "12345",
+"cart":[]
 },
 {
 "id": 10,
 "name": "Chucho Norssister",
 "age": 20,
 "email": "cnorssister9@mayoclinic.com",
-"password": "12345"
+"password": "12345",
+"cart":[]
 }
+],
+"mens":[
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220927/pNT8/6332df42aeb269dbb3aa32c0/performax_jet_black_fastdry_active_essential_track_pants.jpg",
+    "brand": "PERFORMAX",
+    "title": "Fastdry Active Essential Track Pants",
+    "price": 419,
+    "discount": 30,
+    "offer_price": 300,
+     "id":1,
+     "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3fd/eyebogler_teal_colour-blocked_polo_t-shirt.jpg",
+    "brand": "EYEBOGLER",
+    "title": "Colour-Blocked Polo T-shirt",
+    "price": 377,
+    "discount":71,
+    "offer_price": 325,
+    "id":2,
+    "category":"T-shirt"
+
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230321/ykcb/64190b00aeb26924e3da4936/jompers_black_embellished_long_kurta_with_insert_pocket.jpg",
+    "brand": "JOMPERS",
+    "title": "Embellished Long Kurta with Insert Pocket",
+    "price": 1505,
+    "discount": 65,
+    "offer_price": 1376,
+    "id":3,
+    "category":"kurta"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221117/2r8w/6375d715aeb269659c97f84a/dennislingo_premium_attire_green_striped_slim_fit_shirt.jpg",
+    "brand": "DENNISLINGO PREMIUM ATTIRE",
+    "title": "Striped Slim Fit Shirt",
+    "price": 700,
+    "discount": 72,
+    "offer_price": 625,
+    "id":4,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230321/Qm2h/64193f9aaeb26924e3de150e/fidato_black_crew-neck_t-shirt_with_full_sleeves.jpg",
+    "brand": "FIDATO",
+    "title": "Crew-Neck T-Shirt with Full Sleeves",
+    "price": 168,
+    "discount": 72,
+    "offer_price": 168,
+    "id":5,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230102/R0me/63b30ae3aeb269659c1e4f01/dennislingo_premium_attire_pink_full_sleeves_slim_fit_classic_shirt.jpg",
+    "brand": "DENNISLINGO PREMIUM ATTIRE",
+    "title": "Full Sleeves Slim Fit Classic Shirt",
+    "price": 61,
+    "discount": 67,
+    "offer_price": 462,
+    "id":6,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220513/sNUJ/627e1e7af997dd03e2b93cf7/the_bear_house_white_slim_fit_shirt_with_patch_pocket.jpg",
+    "brand": "THE BEAR HOUSE",
+    "title": "Slim Fit Shirt with Patch Pocket",
+    "price": 1297,
+    "discount": 48,
+    "offer_price": 791,
+    "id":7,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20211014/3Zzy/616831f5aeb269011092dd28/puma_white_logo_print_t-shirt_with_crew-neck.jpg",
+    "brand": "Puma",
+    "title": "Logo Print T-shirt with Crew-Neck",
+    "price": 67,
+    "discount": 55,
+    "offer_price": 486,
+    "id":8,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220513/OWCN/627e26ddaeb26921af770461/the_bear_house_purple_textured_slim_fit_shirt_with_patch_pocket.jpg",
+    "brand": "THE BEAR HOUSE",
+    "title": "Textured Slim Fit Shirt with Patch Pocket",
+    "price": 1372,
+    "discount": 45,
+    "offer_price": 837,
+    "id":9,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220824/ezLH/63063e00f997dd394c1a7388/netplay_black_tapered_fit_flat-front_chinos.jpg",
+    "brand": "NETPLAY",
+    "title": "Tapered Fit Flat-Front Chinos",
+    "price": 850,
+    "discount": 50,
+    "offer_price": 765,
+    "id":10,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230125/33cJ/63d0f0a1aeb269c651f7e09b/performax_navy_blue_fastdry_active_essential_track_pants.jpg",
+    "brand": "PERFORMAX",
+    "title": "Fastdry Active Essential Track Pants",
+    "price": 419,
+    "discount": 30,
+    "offer_price": 300,
+    "id":11,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20210421/M9bd/607f246ff997dd7b64b8b5cb/the_indian_garage_co_blue_washed_distressed_slim_fit_jeans.jpg",
+    "brand": "The Indian Garage Co",
+    "title": "Washed Distressed Slim Fit Jeans",
+    "price": 810,
+    "discount": 64,
+    "offer_price": 765,
+    "id":12,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220513/5arK/627e2306aeb26921af76b77c/the_bear_house_maroon_slim_fit_checked_shirt.jpg",
+    "brand": "THE BEAR HOUSE",
+    "title": "Slim Fit Checked Shirt",
+    "price": 1248,
+    "discount": 50,
+    "offer_price": 761,
+    "id":13,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230215/TTgw/63ecfed6aeb26924e373fd95/the_indian_garage_co_white_striped_shirt_with_patch_pocket.jpg",
+    "brand": "The Indian Garage Co",
+    "title": "Striped Shirt with Patch Pocket",
+    "price": 546,
+    "discount": 74,
+    "offer_price": 546,
+    "id":14,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230314/Ma65/640fa09ff997dde6f4f73344/glito_grey_track_pants_with_drawstring_waist.jpg",
+    "brand": "GLITO",
+    "title": "Track Pants with Drawstring Waist",
+    "price": 377,
+    "discount": 71,
+    "offer_price": 325,
+    "id":15,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220729/zDwW/62e3c9e5f997dd03e206b3a1/bullmer_multicoloured_colourblock_polo_t-shirt.jpg",
+    "brand": "Bullmer",
+    "title": "Colourblock Polo T-shirt",
+    "price": 430,
+    "discount": 57,
+    "offer_price": 262,
+    "id":16,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230314/yVCX/640fa779f997dde6f4f74d82/glito_navy_blue_track_pants_with_drawstring_waist.jpg",
+    "brand": "GLITO",
+    "title": "Track Pants with Drawstring Waist",
+    "price": 377,
+    "discount": 71,
+    "offer_price": 325,
+    "id":17,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220513/9c8B/627e23eff997dd03e2b9bbd8/the_bear_house_multi_checked_slim_fit_shirt.jpg",
+    "brand": "THE BEAR HOUSE",
+    "title": "Checked Slim Fit Shirt",
+    "price": 1372,
+    "discount": 45,
+    "offer_price": 837,
+    "id":18,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220819/J8Ir/62fe857df997dd394c02d828/ivoc_white_slim_fit_shorts_with_pockets.jpg",
+    "brand": "iVOC",
+    "title": "Slim Fit Shorts with Pockets",
+    "price": 736,
+    "discount": 54,
+    "offer_price": 449,
+    "id":19,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20211026/TjX0/61771e26aeb2690110a953de/netplay_white_printed_shirt_with_patch_pocket.jpg",
+    "brand": "NETPLAY",
+    "title": "Printed Shirt with Patch Pocket",
+    "price": 50,
+    "discount": 52,
+    "offer_price": 357,
+    "id":20,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230221/IvHD/63f4e128f997dde6f4b847cc/jump_cuts_black_typographic_print_crew-neck_sweatshirt.jpg",
+    "brand": "JUMP CUTS",
+    "title": "Typographic Print Crew-Neck Sweatshirt",
+    "price": 432,
+    "discount": 73,
+    "offer_price": 432,
+    "id":21,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20211202/fdOG/61a7f960f997ddf8f12dc994/performax_olive_fastdry_active_essential_shorts.jpg",
+    "brand": "PERFORMAX",
+    "title": "Fastdry Active Essential Shorts",
+    "price": 349,
+    "discount": 30,
+    "offer_price": 250,
+    "id":22,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220312/nM1q/622bb1e3f997dd03e20ec3ba/the_indian_garage_co_pista_green_spread_collar_shirt_with_logo_patch_pocket.jpg",
+    "brand": "The Indian Garage Co",
+    "title": "Spread Collar Shirt with Logo Patch Pocket",
+    "price": 595,
+    "discount": 66,
+    "offer_price": 560,
+    "id":23,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221117/RX1l/6375d74faeb269659c97fe84/dennislingo_premium_attire_black_spread_collar_slim_fit_shirt.jpg",
+    "brand": "DENNISLINGO PREMIUM ATTIRE",
+    "title": "Spread Collar Slim Fit Shirt",
+    "price": 621,
+    "discount": 73,
+    "offer_price": 575,
+    "id":24,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221226/nbq1/63a9c3c1f997ddfdbdf94644/ketch_black_typographic_print_jogger_pants.jpg",
+    "brand": "Ketch",
+    "title": "Typographic Print Jogger Pants",
+    "price": 812,
+    "discount": 72,
+    "offer_price": 812,
+    "id":25,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220224/HqCx/621734faaeb26921afb45fe9/even_white_kurta_with_slit_neckline_.jpg",
+    "brand": "Even",
+    "title": "Kurta with Slit Neckline",
+    "price": 638,
+    "discount": 60,
+    "offer_price": 399,
+    "id":26,
+    "category":"kurta"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220304/R2AD/62214fd1aeb26921afc77f87/ausk_peach_%26_white_polo_t-shirt_with_welt_pocket.jpg",
+    "brand": "AUSK",
+    "title": "Polo T-shirt with Welt Pocket",
+    "price": 300,
+    "discount": 80,
+    "offer_price": 300,
+    "id":27,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221109/61kh/636b8ebaf997ddfdbd664273/dennislingo_premium_attire_purple__slim_fit_shirt_with_spread_collar.jpg",
+    "brand": "DENNISLINGO PREMIUM ATTIRE",
+    "title": "Slim Fit Shirt with Spread Collar",
+    "price": 610,
+    "discount": 67,
+    "offer_price": 462,
+    "id":28,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220125/NdPb/61ef13c0aeb2695cdd2bb6b8/performax_black_fastdry_active_panelled_track_pants.jpg",
+    "brand": "PERFORMAX",
+    "title": "Fastdry Active Panelled Track Pants",
+    "price": 639,
+    "discount": 20,
+    "offer_price": 639,
+    "id":29,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230322/8m7K/641a028a907deb497a98516c/the_hollander_white_crew-neck_loose_fit_t-shirt.jpg",
+    "brand": "THE HOLLANDER",
+    "title": "Crew-Neck Loose Fit T-Shirt",
+    "price": 296,
+    "discount": 63,
+    "offer_price": 272,
+    "id":30,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230127/IqdQ/63d3b8a6aeb269c651fd34c1/the_indian_garage_co_pink_spread_collar_shirt_with_patch_pocket.jpg",
+    "brand": "The Indian Garage Co",
+    "title": "Spread Collar Shirt with Patch Pocket",
+    "price": 595,
+    "discount": 66,
+    "offer_price": 560,
+    "id":31,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220729/fCLi/62e2f561aeb26921afa8cb0c/tistabene_multicoloured_striped_shirt_with_curved_hemline.jpg",
+    "brand": "Tistabene",
+    "title": "Striped Shirt with Curved Hemline",
+    "price": 43,
+    "discount": 52,
+    "offer_price": 432,
+    "id":32,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220317/upsH/62324f6daeb26921afdf8b19/the_dry_state_blue_solid_crew-neck_t-shirt.jpg",
+    "brand": "The Dry State",
+    "title": "Solid Crew-Neck T-shirt",
+    "price": 455,
+    "discount": 65,
+    "offer_price": 325,
+    "id":33,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220511/MU3P/627b4a8aaeb26921af650b1d/bullmer_maroon_striped_polo_t-shirt.jpg",
+    "brand": "Bullmer",
+    "title": "Striped Polo T-shirt",
+    "price": 450,
+    "discount": 55,
+    "offer_price": 275,
+    "id":34,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220107/8KQQ/61d85d88f997dd66231534f7/ntwk_grey_slim_fit_flat-front_trousers.jpg",
+    "brand": "NTWK",
+    "title": "Slim Fit Flat-Front Trousers",
+    "price": 419,
+    "discount": 40,
+    "offer_price": 350,
+    "id":35,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220817/xLbL/62fd00a3aeb26917618011c4/netplay_olive_tapered_fit_flat-front_chinos.jpg",
+    "brand": "NETPLAY",
+    "title": "Tapered Fit Flat-Front Chinos",
+    "price": 850,
+    "discount": 50,
+    "offer_price": 765,
+    "id":36,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221109/tsRn/636b8d0bf997ddfdbd661046/dennislingo_premium_attire_white_slim_fit_shirt_with_patch_pocket.jpg",
+    "brand": "DENNISLINGO PREMIUM ATTIRE",
+    "title": "Slim Fit Shirt with Patch Pocket",
+    "price": 592,
+    "discount": 68,
+    "offer_price": 462,
+    "id":37,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220429/YxDA/626c00c8f997dd03e28ab681/netplay_grey_tapered_fit_flat-front_chinos.jpg",
+    "brand": "NETPLAY",
+    "title": "Tapered Fit Flat-Front Chinos",
+    "price": 800,
+    "discount": 50,
+    "offer_price": 720,
+    "id":38,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220208/4xFY/62017cbdaeb26921af8d919a/netplay_red_np_06_fs_slim_fit_shirt_with_band_collar.jpg",
+    "brand": "NETPLAY",
+    "title": "NP 06 FS Slim Fit Shirt with Band Collar",
+    "price": 525,
+    "discount": 50,
+    "offer_price": 472,
+    "id":39,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20210316/OCHb/604faff7f997dd5c401154cb/the_indian_garage_co_blue_lightly_washed_slim_fit_jeans.jpg",
+    "brand": "The Indian Garage Co",
+    "title": "Lightly Washed Slim Fit Jeans",
+    "price": 780,
+    "discount": 61,
+    "offer_price": 700,
+    "id":40,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221101/1T1t/63603487aeb269659c68c18a/clafoutis_maroon_slim_fit_full-sleeves_t-shirt.jpg",
+    "brand": "Clafoutis",
+    "title": "Slim Fit Full-Sleeves T-Shirt",
+    "price": 260,
+    "discount": 74,
+    "offer_price": 260,
+    "id":41,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220513/YLRK/627e26c1aeb26921af770221/the_bear_house_black_checks_slim_fit_shirt.jpg",
+    "brand": "THE BEAR HOUSE",
+    "title": "Checks Slim Fit Shirt",
+    "price": 1248,
+    "discount": 50,
+    "offer_price": 761,
+    "id":42,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220317/4ExL/62323f25aeb26921afded401/the_indian_garage_co_blue_acid-wash_slim_fit_jeans.jpg",
+    "brand": "The Indian Garage Co",
+    "title": "Acid-Wash Slim Fit Jeans",
+    "price": 820,
+    "discount": 59,
+    "offer_price": 780,
+    "id":43,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221106/t9wM/63678db6f997ddfdbd5aed23/u.s._polo_assn.__us_men_jeans%2C_blue%2C_30.jpg",
+    "brand": "U.S. Polo Assn.",
+    "title": "Us men jeans, blue, 30",
+    "price": 1050,
+    "discount": 58,
+    "offer_price": 1050,
+    "id":44,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20210403/UlIh/60687dc97cdb8c1f1476b90a/see_designs_white_mid-rise_full_length_pyjamas.jpg",
+    "brand": "See Designs",
+    "title": "Mid-Rise Full Length Pyjamas",
+    "price": 481,
+    "discount": 63,
+    "offer_price": 325,
+    "id":45,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221201/teub/63884a08aeb269659cc6d787/performax_black_fastdry_active_crew-neck_t-shirt.jpg",
+    "brand": "PERFORMAX",
+    "title": "Fastdry Active Crew-Neck T-shirt",
+    "price": 374,
+    "discount": 25,
+    "offer_price": 349,
+    "id":46,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230227/4Uox/63fcee51aeb26924e393d423/clafoutis_black_joggers_with_elasticated_waist.jpg",
+    "brand": "Clafoutis",
+    "title": "Joggers with Elasticated Waist",
+    "price": 350,
+    "discount": 65,
+    "offer_price": 250,
+    "id":47,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220819/Qrjk/62fe858faeb269176183f494/ivoc_navy_zip_fly-style_slim_fit_cargo_pants.jpg",
+    "brand": "iVOC",
+    "title": "Zip Fly-Style Slim Fit Cargo Pants",
+    "price": 1391,
+    "discount": 42,
+    "offer_price": 849,
+    "id":48,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220629/OQko/62bc6316f997dd03e2a8a96f/john_players_jeans_blue_slim_fit_mid_rise_jeans_with_whiskers.jpg",
+    "brand": "JOHN PLAYERS JEANS",
+    "title": "Slim Fit Mid Rise Jeans with Whiskers",
+    "price": 1127,
+    "discount": 51,
+    "offer_price": 920,
+    "id":49,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221213/xv3w/6398ae30aeb269659ce7b096/dnmx_grey_mid-wash_slim_fit_jeans.jpg",
+    "brand": "DNMX",
+    "title": "Mid-Wash Slim Fit Jeans",
+    "price": 750,
+    "discount": 50,
+    "offer_price": 675,
+    "id":50,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220708/I0cu/62c74654f997dd03e2c359e8/glito_black_track_pants_with_elasticated_waist.jpg",
+    "brand": "GLITO",
+    "title": "Track Pants with Elasticated Waist",
+    "price": 364,
+    "discount": 72,
+    "offer_price": 325,
+    "id":51,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20210403/UraZ/60691d23aeb269a9e33e7327/polo_plus_black_short_sleeves_polo_t-shirt.jpg",
+    "brand": "Polo Plus",
+    "title": "Short Sleeves Polo T-shirt",
+    "price": 772,
+    "discount": 69,
+    "offer_price": 360,
+    "id":52,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220518/dmZC/62850280f997dd03e2e8558d/netplay_navy_blue_twill_flat-front_chinos_with_insert_pockets.jpg",
+    "brand": "NETPLAY",
+    "title": "Twill Flat-Front Chinos with Insert Pockets",
+    "price": 750,
+    "discount": 50,
+    "offer_price": 675,
+    "id":53,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221214/b8iY/6398ed7ff997ddfdbdd2d7ed/fidato_assorted_pack_of_2_regular-fit_crew-neck_t-shirt.jpg",
+    "brand": "FIDATO",
+    "title": "Pack of 2 Regular-Fit Crew-Neck T-Shirt",
+    "price": 270,
+    "discount": 70,
+    "offer_price": 270,
+    "id":54,
+    "category":"T-shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220630/tDnE/62bc9dcff997dd03e2a9eb13/netplay_navy_blue_checked_slim_fit_trousers_with_insert_pockets.jpg",
+    "brand": "NETPLAY",
+    "title": "Checked Slim Fit Trousers with Insert Pockets",
+    "price": 750,
+    "discount": 50,
+    "offer_price": 675,
+    "id":55,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20210316/9gAe/604fab51aeb2696981863192/the_indian_garage_co_white_checked_slim_fit_shirt_with_patch_pocket.jpg",
+    "brand": "The Indian Garage Co",
+    "title": "Checked Slim Fit Shirt with Patch Pocket",
+    "price": 595,
+    "discount": 66,
+    "offer_price": 560,
+    "id":56,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221109/qVbZ/636b8ecfaeb269659c7f904c/dennislingo_premium_attire_red_checked_slim_fit_shirt_with_patch_pocket.jpg",
+    "brand": "DENNISLINGO PREMIUM ATTIRE",
+    "title": "Checked Slim Fit Shirt with Patch Pocket",
+    "price": 411,
+    "discount": 53,
+    "offer_price": 373,
+    "id":57,
+    "category":"shirt"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230301/0DiO/63ff6728f997dde6f4d4ad36/mvmt_navy_blue_track_pants_with_insert_pockets.jpg",
+    "brand": "MVMT",
+    "title": "Track Pants with Insert Pockets",
+    "price": 225,
+    "discount": 50,
+    "offer_price": 225,
+    "id":58,
+    "category":"Pants"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220623/iSqL/62b4a23faeb26921af432363/performax_blue_fastdry_active_essential_shorts.jpg",
+    "brand": "PERFORMAX",
+    "title": "Fastdry Active Essential Shorts",
+    "price": 349,
+    "discount": 30,
+    "offer_price": 250,
+    "id":59,
+    "category":"jeans"
+  },
+  {
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220709/E0bq/62c898f5aeb26921af6d5ea8/the_bear_house_white_checked_slim_fit_shirt.jpg",
+    "brand": "THE BEAR HOUSE",
+    "title": "Checked Slim Fit Shirt",
+    "price": 1372,
+    "discount": 45,
+    "offer_price":837,
+    "id":60,
+    "category":"shirt"
+  }
 ]
+
+
 }
