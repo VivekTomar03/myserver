@@ -685,11 +685,12 @@
   }
 ],
 
+
   "women": [
     {
       "title": "Floral Print Straight Kurta Set",
       "price": 1286,
-      "image": "https://www.ajio.com/prakhya-floral-print-straight-kurta-set/p/465509166_black",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230113/VNYf/63c0f061f997dd708e0509c7/-473Wx593H-465509166-black-MODEL.jpg",
       "category": "Kurtis",
       "brand": "PRAKHYA",
       "discount": 44,
@@ -699,7 +700,7 @@
     {
       "title": "Embellished Polyester Saree",
       "price": 364,
-      "image": "https://www.ajio.com/siril-embellished-polyester-saree/p/465791742_teal",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230322/T3Lq/641ae70b907deb497aa47615/-473Wx593H-465791742-teal-MODEL.jpg",
       "category": "Sarees",
       "brand": "Siril",
       "discount": 35,
@@ -738,11 +739,11 @@
       "id": 5
     },
     {
-      "title": "ZIKARAA",
+      "title": "Banarasi Silk Saree with Leaf Woven Motifs ",
       "price": 2222,
       "image": "https://assets.ajio.com/medias/sys_master/root/20230306/2Pwn/64061eafaeb26924e3a9b4f3/-473Wx593H-465870088-white-MODEL.jpg",
       "category": "Sarees",
-      "brand": "Banarasi Silk Saree with Leaf Woven Motifs",
+      "brand": "ZIKARAA",
       "discount": 48,
       "offer_price": 1155,
       "id": 6
@@ -1388,8 +1389,40 @@
       "offer_price": 2900,
       "id": 70
     }
+  ],
+
+  "admin":[
+     {
+      "id":1,
+      "username":"akash@gmail.com",
+      "password":"12345"
+     },
+     {
+      "id":2,
+      "username":"vivekT@gmail.com",
+      "password":"12345"
+     },
+     {
+      "id":3,
+      "username":"vivekK@gmail.com",
+      "password":"12345"
+     },
+     {
+      "id":4,
+      "username":"ravindra@gmail.com",
+      "password":"12345"
+     },
+     {
+      "id":5,
+      "username":"sagar@gmail.com",
+      "password":"12345"
+     }
+
+
+
+
   ]
 
-
+   
 
 }
